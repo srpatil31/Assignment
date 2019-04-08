@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingTool", "DrawingTool\DrawingTool.csproj", "{5441F493-D8DF-45D4-971E-EEE814B210FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingTool.UnitTests", "DrawingTool.UnitTests\DrawingTool.UnitTests.csproj", "{44D7FCA8-66AE-4CE3-936A-3D8B797B2C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5441F493-D8DF-45D4-971E-EEE814B210FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5441F493-D8DF-45D4-971E-EEE814B210FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5441F493-D8DF-45D4-971E-EEE814B210FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5441F493-D8DF-45D4-971E-EEE814B210FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D7FCA8-66AE-4CE3-936A-3D8B797B2C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D7FCA8-66AE-4CE3-936A-3D8B797B2C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D7FCA8-66AE-4CE3-936A-3D8B797B2C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D7FCA8-66AE-4CE3-936A-3D8B797B2C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C96DF4A-EB1F-4A35-999D-9EF81C86F37A}
+	EndGlobalSection
+EndGlobal
